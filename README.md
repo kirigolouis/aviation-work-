@@ -41,4 +41,4 @@ The number of engines may influence the severity of an accident. For example, tw
 # Conclusion
 Safety Performance: Choose models with a demonstrated decline in accidents over time and a high survival rate in case of accidents. Engine Reliability: Opt for aircraft with reliable engines and, where possible, select twin-engine or multi-engine planes to improve redundancy. Manufacturer Reputation: Favor aircraft from manufacturers with strong safety records and fewer accidents overall. Weather Adaptability: Aircraft with proven performance in adverse weather conditions are highly recommended, especially for operations in regions prone to severe weather. By focusing on these factors, you can significantly reduce risk and ensure safer and more reliable aircraft operations.
 # Tableau visualizations
-[https://public.tableau.com/app/profile/john.louis.kirigo/viz/Aviationdata_17273383624390/Dashboard1?publish=yes](URL)
+[my tableau visualizations link](https://public.tableau.com/app/profile/john.louis.kirigo/viz/Aviationdata_17273383624390/Dashboard1?publish=yes)
